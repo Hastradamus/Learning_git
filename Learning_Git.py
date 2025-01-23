@@ -13,5 +13,13 @@ travel_time = distance / average_speed
 print('The travel time is: ')
 print(travel_time)
 
+<<<<<<< HEAD
 #Forked code
 #Some Change
+=======
+<<<<<<< HEAD
+#fixed bugs
+=======
+#Some Change
+>>>>>>> TestBranch
+>>>>>>> BugFix
